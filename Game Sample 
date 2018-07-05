@@ -1,0 +1,240 @@
+Enter player1 name
+Sivakumar
+Enter player2 name
+Jenison
+Symbol for Sivakumar
+S
+Symbol for Jenison
+J
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 1
+ S |   |   
+-----------
+   |   |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 2
+ S |   |   
+-----------
+   | J |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 2
+ S | S |   
+-----------
+   | J |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 1
+ S | S |   
+-----------
+ J | J |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 2 3
+ S | S |   
+-----------
+ J | J | S 
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 3 3
+ S | S |   
+-----------
+ J | J | S 
+-----------
+   |   | J 
+
+Player Sivakumar, select seed to move (row[1-3] column[1-3]): 2 3
+Possible move 1 3
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 3
+'Sivakumar' won!
+ S | S | S 
+-----------
+ J | J |   
+-----------
+   |   | J 
+
+Sivakumar 1
+Jenison 0
+Do you want to continue press 0/quit press 1 : 0
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 1
+ S |   |   
+-----------
+   |   |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 2
+ S |   |   
+-----------
+   | J |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 2
+ S | S |   
+-----------
+   | J |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 1
+ S | S |   
+-----------
+ J | J |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 3 3
+ S | S |   
+-----------
+ J | J |   
+-----------
+   |   | S 
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 3
+'Jenison' won!
+ S | S |   
+-----------
+ J | J | J 
+-----------
+   |   | S 
+
+Sivakumar 1
+Jenison 1
+Do you want to continue press 0/quit press 1 : 0
+Player Jenison, enter your move (row[1-3] column[1-3]): 1 1
+ J |   |   
+-----------
+   |   |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 2 2
+ J |   |   
+-----------
+   | S |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 1 2
+ J | J |   
+-----------
+   | S |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 3
+ J | J | S 
+-----------
+   | S |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 1
+ J | J | S 
+-----------
+ J | S |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 3 2
+ J | J | S 
+-----------
+ J | S |   
+-----------
+   | S |   
+
+Player Jenison, select seed to move (row[1-3] column[1-3]): 1 1
+You can't move this
+Player Jenison, select seed to move (row[1-3] column[1-3]): 1 2
+You can't move this
+Player Jenison, select seed to move (row[1-3] column[1-3]): 2 1
+Possible move 3 1
+Player Jenison, enter your move (row[1-3] column[1-3]): 3 1
+ J | J | S 
+-----------
+   | S |   
+-----------
+ J | S |   
+
+Player Sivakumar, select seed to move (row[1-3] column[1-3]): 2 2
+Possible move 2 1
+Possible move 2 3
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 2 3
+ J | J | S 
+-----------
+   |   | S 
+-----------
+ J | S |   
+
+Player Jenison, select seed to move (row[1-3] column[1-3]): 1 2
+Possible move 2 2
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 2
+ J |   | S 
+-----------
+   | J | S 
+-----------
+ J | S |   
+
+Player Sivakumar, select seed to move (row[1-3] column[1-3]): 3 2
+Possible move 3 3
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 3 3
+'Sivakumar' won!
+ J |   | S 
+-----------
+   | J | S 
+-----------
+ J |   | S 
+
+Sivakumar 2
+Jenison 1
+Do you want to continue press 0/quit press 1 : 0
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 1
+ S |   |   
+-----------
+   |   |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 2
+ S |   |   
+-----------
+   | J |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 1
+This move at (1,1) is not valid. Try again...
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 2
+ S | S |   
+-----------
+   | J |   
+-----------
+   |   |   
+
+Player Jenison, enter your move (row[1-3] column[1-3]): 2 1
+ S | S |   
+-----------
+ J | J |   
+-----------
+   |   |   
+
+Player Sivakumar, enter your move (row[1-3] column[1-3]): 1 3
+'Sivakumar' won!
+ S | S | S 
+-----------
+ J | J |   
+-----------
+   |   |   
+
+Sivakumar 3
+Jenison 1
+Do you want to continue press 0/quit press 1 : 1
+Bye!
+
+Process finished with exit code 0
